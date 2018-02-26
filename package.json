@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/wafferjs/waffer-parser-default/issues"
   },
-  "homepage": "https://github.com/wafferjs/waffer-parser-default#readme"
+  "homepage": "https://github.com/wafferjs/waffer-parser-default#readme",
+  "dependencies": {}
 }
