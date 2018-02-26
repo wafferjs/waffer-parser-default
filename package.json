@@ -1,0 +1,19 @@
+{
+  "name": "waffer-parser-pug",
+  "version": "1.0.0",
+  "description": "default parser for waffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casper Seweryn <nya@wvffle.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wafferjs/waffer-parser-default.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wafferjs/waffer-parser-default/issues"
+  },
+  "homepage": "https://github.com/wafferjs/waffer-parser-default#readme"
+}
