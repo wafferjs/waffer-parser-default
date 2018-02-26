@@ -7,6 +7,6 @@ const parse = (file, next) => {
   });
 }
 
-module.exports = parser => {
+module.exports = server => {
   return { parse, ext: null }
 }
