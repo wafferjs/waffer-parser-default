@@ -16,5 +16,7 @@
     "url": "https://github.com/wafferjs/waffer-parser-default/issues"
   },
   "homepage": "https://github.com/wafferjs/waffer-parser-default#readme",
-  "dependencies": {}
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  }
 }
