@@ -1,6 +1,6 @@
 {
   "name": "waffer-parser-default",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "default parser for waffer",
   "main": "index.js",
   "scripts": {
